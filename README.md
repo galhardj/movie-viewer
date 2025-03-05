@@ -1,3 +1,5 @@
+![preview](https://github.com/galhardj/movie-viewer/blob/main/static/image/preview-movie.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
